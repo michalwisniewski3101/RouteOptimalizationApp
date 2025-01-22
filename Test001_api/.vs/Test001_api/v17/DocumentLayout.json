@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vectio\\source\\repos\\Test001_api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71D3D149-511B-4358-A65D-6C191353984B}|Test001_api\\Test001_api.csproj|c:\\users\\vectio\\source\\repos\\test001_api\\test001_api\\controllers\\google.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D3D149-511B-4358-A65D-6C191353984B}|Test001_api\\Test001_api.csproj|solutionrelative:test001_api\\controllers\\google.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D3D149-511B-4358-A65D-6C191353984B}|Test001_api\\Test001_api.csproj|c:\\users\\vectio\\source\\repos\\test001_api\\test001_api\\models\\clientrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D3D149-511B-4358-A65D-6C191353984B}|Test001_api\\Test001_api.csproj|solutionrelative:test001_api\\models\\clientrequestmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D3D149-511B-4358-A65D-6C191353984B}|Test001_api\\Test001_api.csproj|c:\\users\\vectio\\source\\repos\\test001_api\\test001_api\\models\\serverresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D3D149-511B-4358-A65D-6C191353984B}|Test001_api\\Test001_api.csproj|solutionrelative:test001_api\\models\\serverresponsemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D3D149-511B-4358-A65D-6C191353984B}|Test001_api\\Test001_api.csproj|c:\\users\\vectio\\source\\repos\\test001_api\\test001_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71D3D149-511B-4358-A65D-6C191353984B}|Test001_api\\Test001_api.csproj|solutionrelative:test001_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D3D149-511B-4358-A65D-6C191353984B}|Test001_api\\Test001_api.csproj|c:\\users\\vectio\\source\\repos\\test001_api\\test001_api\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D3D149-511B-4358-A65D-6C191353984B}|Test001_api\\Test001_api.csproj|solutionrelative:test001_api\\controllers\\auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71D3D149-511B-4358-A65D-6C191353984B}|Test001_api\\Test001_api.csproj|c:\\users\\vectio\\source\\repos\\test001_api\\test001_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71D3D149-511B-4358-A65D-6C191353984B}|Test001_api\\Test001_api.csproj|solutionrelative:test001_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerResponseModel.cs",
+              "DocumentMoniker": "C:\\Users\\vectio\\source\\repos\\Test001_api\\Test001_api\\Models\\ServerResponseModel.cs",
+              "RelativeDocumentMoniker": "Test001_api\\Models\\ServerResponseModel.cs",
+              "ToolTip": "C:\\Users\\vectio\\source\\repos\\Test001_api\\Test001_api\\Models\\ServerResponseModel.cs",
+              "RelativeToolTip": "Test001_api\\Models\\ServerResponseModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:19:06.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientRequestModel.cs",
+              "DocumentMoniker": "C:\\Users\\vectio\\source\\repos\\Test001_api\\Test001_api\\Models\\ClientRequestModel.cs",
+              "RelativeDocumentMoniker": "Test001_api\\Models\\ClientRequestModel.cs",
+              "ToolTip": "C:\\Users\\vectio\\source\\repos\\Test001_api\\Test001_api\\Models\\ClientRequestModel.cs",
+              "RelativeToolTip": "Test001_api\\Models\\ClientRequestModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:17:24.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "google.cs",
+              "DocumentMoniker": "C:\\Users\\vectio\\source\\repos\\Test001_api\\Test001_api\\Controllers\\google.cs",
+              "RelativeDocumentMoniker": "Test001_api\\Controllers\\google.cs",
+              "ToolTip": "C:\\Users\\vectio\\source\\repos\\Test001_api\\Test001_api\\Controllers\\google.cs",
+              "RelativeToolTip": "Test001_api\\Controllers\\google.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T11:31:05.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vectio\\source\\repos\\Test001_api\\Test001_api\\appsettings.json",
+              "RelativeDocumentMoniker": "Test001_api\\appsettings.json",
+              "ToolTip": "C:\\Users\\vectio\\source\\repos\\Test001_api\\Test001_api\\appsettings.json",
+              "RelativeToolTip": "Test001_api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-21T08:57:36.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vectio\\source\\repos\\Test001_api\\Test001_api\\Program.cs",
+              "RelativeDocumentMoniker": "Test001_api\\Program.cs",
+              "ToolTip": "C:\\Users\\vectio\\source\\repos\\Test001_api\\Test001_api\\Program.cs",
+              "RelativeToolTip": "Test001_api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:57:29.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Auth.cs",
+              "DocumentMoniker": "C:\\Users\\vectio\\source\\repos\\Test001_api\\Test001_api\\Controllers\\Auth.cs",
+              "RelativeDocumentMoniker": "Test001_api\\Controllers\\Auth.cs",
+              "ToolTip": "C:\\Users\\vectio\\source\\repos\\Test001_api\\Test001_api\\Controllers\\Auth.cs",
+              "RelativeToolTip": "Test001_api\\Controllers\\Auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T08:57:26.128Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
